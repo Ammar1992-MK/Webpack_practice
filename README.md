@@ -1,2 +1,2 @@
 # Webpack_practice
-React calculator
+Calculator-app to practice webpack and modules
